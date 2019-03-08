@@ -1,4 +1,4 @@
-# PartNet Dataset
+# PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding 
 
 ![Dataset Overview](https://github.com/daerduoCarey/partnet_dataset/blob/master/images/data_visu.png)
 
