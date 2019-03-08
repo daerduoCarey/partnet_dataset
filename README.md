@@ -36,43 +36,43 @@ This repository provides the meta-files for PartNet release v0.
 
 ```
     stats/
-        all_valid_anno_info.txt         # Store all valid PartNet Annotation meta-information
-                                        # <anno_id, version_id, category, shapenet_model_id, annotator_id>
-        before_merging_label_ids/       # Store all expert-defined part semantics before merging
-            Chair.txt
-            ...
-        merging2_hierarchy_mapping/     # Store all merging criterion
-            Chair.txt
-            ...
-        after_merging2_label_ids/       # Store the part semantics after merging
-            Chair.txt                   # all part semantics
-            Chair-hier.txt              # all part semantics that are selected for Sec 5.2 experiments
-            Chair-level-1.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-1
-            Chair-level-2.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-2
-            Chair-level-3.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-3
-            ...
-        train_val_test_split/           # An attemptive train/val/test splits (may be changed for official v1 release and PartNet challenges)
-            Chair.train.json
-            Chair.val.json
-            Chair.test.json
+            all_valid_anno_info.txt         # Store all valid PartNet Annotation meta-information
+                                            # <anno_id, version_id, category, shapenet_model_id, annotator_id>
+            before_merging_label_ids/       # Store all expert-defined part semantics before merging
+                    Chair.txt
+                    ...
+            merging2_hierarchy_mapping/     # Store all merging criterion
+                    Chair.txt
+                    ...
+            after_merging2_label_ids/       # Store the part semantics after merging
+                    Chair.txt                   # all part semantics
+                    Chair-hier.txt              # all part semantics that are selected for Sec 5.2 experiments
+                    Chair-level-1.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-1
+                    Chair-level-2.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-2
+                    Chair-level-3.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-3
+                    ...
+            train_val_test_split/           # An attemptive train/val/test splits (may be changed for official v1 release and PartNet challenges)
+                    Chair.train.json
+                    Chair.val.json
+                    Chair.test.json
     scripts/
             gen_h5_ins_seg_after_merging2.py    # An example usage python script to load PartNet data, check the file for more information
     data/                                       # Download PartNet data from Google Drive and unzip them here
             42/
-                result.json                 # A JSON file storing the part hierarchical trees from raw user annotation
-                meta.json                   # A JSON file storing all the related meta-information
-                objs/                       # A folder containing several part obj files indexed by `result.json`
+                    result.json                 # A JSON file storing the part hierarchical trees from raw user annotation
+                    meta.json                   # A JSON file storing all the related meta-information
+                    objs/                       # A folder containing several part obj files indexed by `result.json`
                                             # Note that the parts here are not the final parts. Each individual obj may not make sense.
                                             # Please refer to `result.json` and read each part's obj files. Maybe many obj files make up one part.
-                    original-*.obj          # Indicate this is an exact part mesh from the original ShapeNet model
-                    new-*.obj               # Indicate this is a smoothed and cut-out part mesh in PartNet annotation cutting procedure
-                tree_hier.html              # A simple HTML visualzation for the hierarchical annotation
-                part_renders/               # A folder with rendered images supporting `tree_hier.html` visualization
-                point_sample/               # We sample 10,000 points for point cloud learning
-                    pts-10000.txt                               # point cloud directly sampled from the combination of part meshes under `objs/`
-                    label-10000.txt
-                    sample-points-all-pts-nor-rgba-10000.txt    # point cloud directly sampled from the whole ShapeNet model with labels transferred from `label-10000.txt`
-                    sample-points-all-label-10000.txt
+                            original-*.obj          # Indicate this is an exact part mesh from the original ShapeNet model
+                            new-*.obj               # Indicate this is a smoothed and cut-out part mesh in PartNet annotation cutting procedure
+                    tree_hier.html              # A simple HTML visualzation for the hierarchical annotation
+                    part_renders/               # A folder with rendered images supporting `tree_hier.html` visualization
+                    point_sample/               # We sample 10,000 points for point cloud learning
+                            pts-10000.txt                               # point cloud directly sampled from the combination of part meshes under `objs/`
+                            label-10000.txt
+                            sample-points-all-pts-nor-rgba-10000.txt    # point cloud directly sampled from the whole ShapeNet model with labels transferred from `label-10000.txt`
+                            sample-points-all-label-10000.txt
 
 ```
 
