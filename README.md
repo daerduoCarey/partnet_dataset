@@ -8,7 +8,7 @@ We present PartNet: a consistent, large-scale dataset of 3D objects annotated wi
 
 ## About the paper
 
-PartNet is accepted to CVPR 2019. 
+PartNet is accepted to CVPR 2019. See you at Long Beach, LA.
 
 Our team: [Kaichun Mo](https://cs.stanford.edu/~kaichun), [Shilin Zhu](http://cseweb.ucsd.edu/~shz338/), [Angel X. Chang](https://angelxuanchang.github.io/), [Li Yi](https://cs.stanford.edu/~ericyi/), [Subarna Tripathi](https://subarnatripathi.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/) and [Hao Su](http://cseweb.ucsd.edu/~haosu/) from Stanford, UCSD, SFU and Intel AI Lab.
 
