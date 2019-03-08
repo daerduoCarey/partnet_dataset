@@ -58,21 +58,21 @@ This repository provides the meta-files for PartNet release v0.
     scripts/
             gen_h5_ins_seg_after_merging2.py    # An example usage python script to load PartNet data, check the file for more information
     data/                                       # Download PartNet data from Google Drive and unzip them here
-        42/
-            result.json                 # A JSON file storing the part hierarchical trees from raw user annotation
-            meta.json                   # A JSON file storing all the related meta-information
-            objs/                       # A folder containing several part obj files indexed by `result.json`
-                                        # Note that the parts here are not the final parts. Each individual obj may not make sense.
-                                        # Please refer to `result.json` and read each part's obj files. Maybe many obj files make up one part.
-                original-*.obj          # Indicate this is an exact part mesh from the original ShapeNet model
-                new-*.obj               # Indicate this is a smoothed and cut-out part mesh in PartNet annotation cutting procedure
-            tree_hier.html              # A simple HTML visualzation for the hierarchical annotation
-            part_renders/               # A folder with rendered images supporting `tree_hier.html` visualization
-            point_sample/               # We sample 10,000 points for point cloud learning
-                pts-10000.txt                               # point cloud directly sampled from the combination of part meshes under `objs/`
-                label-10000.txt
-                sample-points-all-pts-nor-rgba-10000.txt    # point cloud directly sampled from the whole ShapeNet model with labels transferred from `label-10000.txt`
-                sample-points-all-label-10000.txt
+            42/
+                result.json                 # A JSON file storing the part hierarchical trees from raw user annotation
+                meta.json                   # A JSON file storing all the related meta-information
+                objs/                       # A folder containing several part obj files indexed by `result.json`
+                                            # Note that the parts here are not the final parts. Each individual obj may not make sense.
+                                            # Please refer to `result.json` and read each part's obj files. Maybe many obj files make up one part.
+                    original-*.obj          # Indicate this is an exact part mesh from the original ShapeNet model
+                    new-*.obj               # Indicate this is a smoothed and cut-out part mesh in PartNet annotation cutting procedure
+                tree_hier.html              # A simple HTML visualzation for the hierarchical annotation
+                part_renders/               # A folder with rendered images supporting `tree_hier.html` visualization
+                point_sample/               # We sample 10,000 points for point cloud learning
+                    pts-10000.txt                               # point cloud directly sampled from the combination of part meshes under `objs/`
+                    label-10000.txt
+                    sample-points-all-pts-nor-rgba-10000.txt    # point cloud directly sampled from the whole ShapeNet model with labels transferred from `label-10000.txt`
+                    sample-points-all-label-10000.txt
 
 ```
 
