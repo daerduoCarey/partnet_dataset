@@ -1,0 +1,3 @@
+2 pot/body subcomponents
+5 pot/base subtypes
+8 pot/containing_things subcomponents

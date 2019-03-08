@@ -1,0 +1,4 @@
+3 cutting_instrument/dagger/handle_side subcomponents
+7 cutting_instrument/dagger/blade_side subcomponents
+10 cutting_instrument/knife/handle_side subcomponents
+14 cutting_instrument/knife/blade_side subcomponents

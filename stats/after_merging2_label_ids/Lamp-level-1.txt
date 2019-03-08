@@ -1,0 +1,17 @@
+4 lamp/ceiling_lamp/chandelier/lamp_unit_group subcomponents
+11 lamp/ceiling_lamp/chandelier/lamp_body leaf
+12 lamp/ceiling_lamp/chandelier/chain leaf
+13 lamp/ceiling_lamp/chandelier/lamp_base subtypes
+17 lamp/ceiling_lamp/pendant_lamp/power_cord subcomponents
+19 lamp/ceiling_lamp/pendant_lamp/pendant_lamp_unit subcomponents
+25 lamp/ceiling_lamp/pendant_lamp/lamp_base subtypes
+29 lamp/table_or_floor_lamp/power_cord subcomponents
+31 lamp/table_or_floor_lamp/lamp_body subcomponents
+38 lamp/table_or_floor_lamp/lamp_unit subcomponents
+49 lamp/table_or_floor_lamp/lamp_base subtypes
+55 lamp/wall_lamp/lamp_body leaf
+56 lamp/wall_lamp/lamp_unit subcomponents
+63 lamp/wall_lamp/lamp_base subtypes
+67 lamp/street_lamp/lamp_post leaf
+68 lamp/street_lamp/street_lamp_base leaf
+69 lamp/street_lamp/lamp_unit subcomponents

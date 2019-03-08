@@ -1,0 +1,14 @@
+5 bed/bed_unit/bed_sleep_area/pillow leaf
+6 bed/bed_unit/bed_sleep_area/mattress leaf
+9 bed/bed_unit/bed_frame/bed_frame_horizontal_surface/frame_horizontal_hard_surface leaf
+10 bed/bed_unit/bed_frame/bed_frame_horizontal_surface/frame_horizontal_surface_bar leaf
+13 bed/bed_unit/bed_frame/bed_frame_base/regular_leg_base/bar_stretcher leaf
+14 bed/bed_unit/bed_frame/bed_frame_base/regular_leg_base/leg leaf
+15 bed/bed_unit/bed_frame/bed_frame_base/surface_base leaf
+17 bed/bed_unit/bed_frame/bed_side_surface/bed_side_surface_horizontal_bar leaf
+18 bed/bed_unit/bed_frame/bed_side_surface/bed_side_surface_panel leaf
+19 bed/bed_unit/bed_frame/bed_side_surface/bed_side_surface_vertical_bar leaf
+20 bed/bed_unit/bed_frame/bed_post leaf
+21 bed/bed_unit/bed_frame/headboard leaf
+23 bed/ladder/ladder_vertical_bar leaf
+24 bed/ladder/rung leaf

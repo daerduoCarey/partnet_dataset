@@ -1,0 +1,11 @@
+1 microwave subcomponents
+2 microwave/body subcomponents
+3 microwave/body/frame leaf
+4 microwave/body/door subcomponents
+5 microwave/body/door/door_frame leaf
+7 microwave/body/door/handle leaf
+8 microwave/body/body_interior subcomponents
+9 microwave/body/body_interior/tray leaf
+10 microwave/base subtypes
+11 microwave/base/foot_base subcomponents
+12 microwave/base/foot_base/foot leaf

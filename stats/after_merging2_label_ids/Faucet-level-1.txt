@@ -1,0 +1,7 @@
+3 faucet/shower_faucet/switch leaf
+4 faucet/shower_faucet/hose leaf
+5 faucet/shower_faucet/spout subcomponents
+7 faucet/shower_faucet/frame subcomponents
+12 faucet/normal_faucet/spout subcomponents
+14 faucet/normal_faucet/switch leaf
+15 faucet/normal_faucet/frame subcomponents

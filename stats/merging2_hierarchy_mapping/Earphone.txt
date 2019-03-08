@@ -1,0 +1,15 @@
+earphone earphone
+earphone/headphone earphone/headphone
+earphone/headphone/connector_wire earphone/headphone/connector_wire
+earphone/headphone/head_band earphone/headphone/head_band
+earphone/headphone/head_band/top_band earphone/headphone/head_band/top_band
+earphone/headphone/earcup_unit earphone/headphone/earcup_unit
+earphone/headphone/earcup_unit/earcup_frame earphone/headphone/earcup_unit/earcup_frame
+earphone/headphone/earcup_unit/earcup_pad earphone/headphone/earcup_unit/earcup_pad
+earphone/headphone/earcup_unit/earcup_connector earphone/headphone/earcup_unit/earcup_connector
+earphone/earbud earphone/earbud
+earphone/earbud/earbud_connector_wire earphone/earbud/earbud_connector_wire
+earphone/earbud/earbud_unit earphone/earbud/earbud_unit
+earphone/earbud/earbud_unit/earbud_frame earphone/earbud/earbud_unit/earbud_frame
+earphone/earbud/earbud_unit/earbud_pad earphone/earbud/earbud_unit/earbud_pad
+earphone/earbud/earbud_unit/earbud_connector earphone/earbud/earbud_unit/earbud_connector

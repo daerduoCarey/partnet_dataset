@@ -1,0 +1,5 @@
+2 chair/chair_head subcomponents
+5 chair/chair_back subcomponents
+16 chair/chair_arm subcomponents
+23 chair/chair_base subtypes
+45 chair/chair_seat subcomponents

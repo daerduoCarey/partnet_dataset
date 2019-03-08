@@ -1,0 +1,8 @@
+hat hat
+hat/normal_hat hat/normal_hat
+hat/normal_hat/crown hat/normal_hat/crown
+hat/normal_hat/brim hat/normal_hat/brim
+hat/cap hat/cap
+hat/cap/bill hat/cap/bill
+hat/cap/panel hat/cap/panel
+hat/cap/button hat/cap/button

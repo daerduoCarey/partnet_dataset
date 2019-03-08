@@ -1,0 +1,8 @@
+laptop laptop
+laptop/screen_side laptop/screen_side
+laptop/screen_side/screen laptop/screen_side/screen
+laptop/screen_side/screen_frame laptop/screen_side/screen_frame
+laptop/base_side laptop/base_side
+laptop/base_side/keyboard laptop/base_side/keyboard
+laptop/base_side/touchpad laptop/base_side/touchpad
+laptop/base_side/base_frame laptop/base_side/base_frame

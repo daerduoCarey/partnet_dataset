@@ -1,0 +1,5 @@
+3 microwave/body/frame leaf
+5 microwave/body/door/door_frame leaf
+7 microwave/body/door/handle leaf
+9 microwave/body/body_interior/tray leaf
+12 microwave/base/foot_base/foot leaf

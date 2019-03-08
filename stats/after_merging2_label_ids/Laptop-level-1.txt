@@ -1,0 +1,2 @@
+2 laptop/screen_side subcomponents
+5 laptop/base_side subcomponents

@@ -1,0 +1,11 @@
+pot pot
+pot/body pot/body
+pot/body/lid pot/body/lid
+pot/body/container pot/body/container
+pot/base pot/base
+pot/base/foot_base pot/base/foot_base
+pot/base/foot_base/foot pot/base/foot_base/foot
+pot/containing_things pot/containing_things
+pot/containing_things/liquid pot/containing_things/liquid_or_soil
+pot/containing_things/soil pot/containing_things/liquid_or_soil
+pot/containing_things/plant pot/containing_things/plant

@@ -1,0 +1,16 @@
+cutting_instrument cutting_instrument
+cutting_instrument/dagger cutting_instrument/dagger
+cutting_instrument/dagger/blade_side cutting_instrument/dagger/blade_side
+cutting_instrument/dagger/blade_side/blade cutting_instrument/dagger/blade_side/blade
+cutting_instrument/dagger/handle_side cutting_instrument/dagger/handle_side
+cutting_instrument/dagger/handle_side/guard cutting_instrument/dagger/handle_side/guard
+cutting_instrument/dagger/handle_side/handle cutting_instrument/dagger/handle_side/handle
+cutting_instrument/dagger/handle_side/butt cutting_instrument/dagger/handle_side/butt
+cutting_instrument/knife cutting_instrument/knife
+cutting_instrument/knife/blade_side cutting_instrument/knife/blade_side
+cutting_instrument/knife/blade_side/blade cutting_instrument/knife/blade_side/blade
+cutting_instrument/knife/blade_side/bolster cutting_instrument/knife/blade_side/bolster
+cutting_instrument/knife/handle_side cutting_instrument/knife/handle_side
+cutting_instrument/knife/handle_side/guard cutting_instrument/knife/handle_side/guard
+cutting_instrument/knife/handle_side/handle cutting_instrument/knife/handle_side/handle
+cutting_instrument/knife/handle_side/butt cutting_instrument/knife/handle_side/butt

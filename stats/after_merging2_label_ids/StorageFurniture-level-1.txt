@@ -1,0 +1,6 @@
+3 storage_furniture/cabinet/countertop leaf
+4 storage_furniture/cabinet/shelf leaf
+5 storage_furniture/cabinet/cabinet_frame subcomponents
+14 storage_furniture/cabinet/drawer subcomponents
+21 storage_furniture/cabinet/cabinet_base subtypes
+33 storage_furniture/cabinet/cabinet_door subcomponents

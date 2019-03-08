@@ -1,0 +1,16 @@
+bag bag
+bag/backpack/shoulder_strap bag/shoulder_strap
+bag/backpack/handle bag/handle
+bag/backpack/bag_body bag/bag_body
+bag/briefcase/handle bag/handle
+bag/briefcase/bag_body bag/bag_body
+bag/luggage/pull_out_handle bag/handle
+bag/luggage/handle bag/handle
+bag/luggage/bag_body bag/bag_body
+bag/hand_or_shoulder_bag/handle bag/handle
+bag/hand_or_shoulder_bag/shoulder_strap bag/shoulder_strap
+bag/hand_or_shoulder_bag/bag_body bag/bag_body
+bag/paper_bag/handle bag/handle
+bag/paper_bag/bag_body bag/bag_body
+bag/plastic_bag/handle bag/handle
+bag/plastic_bag/bag_body bag/bag_body

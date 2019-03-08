@@ -1,0 +1,14 @@
+bottle bottle
+bottle/normal_bottle bottle/normal_bottle
+bottle/normal_bottle/body bottle/normal_bottle/body
+bottle/normal_bottle/lid_handle bottle/normal_bottle/handle
+bottle/normal_bottle/body_handle bottle/normal_bottle/handle
+bottle/normal_bottle/neck bottle/normal_bottle/neck
+bottle/normal_bottle/closure bottle/normal_bottle/closure
+bottle/normal_bottle/lid bottle/normal_bottle/lid
+bottle/normal_bottle/mouth bottle/normal_bottle/mouth
+bottle/jug bottle/jug
+bottle/jug/mouth bottle/jug/mouth
+bottle/jug/body bottle/jug/body
+bottle/jug/lid_handle bottle/jug/handle
+bottle/jug/body_handle bottle/jug/handle

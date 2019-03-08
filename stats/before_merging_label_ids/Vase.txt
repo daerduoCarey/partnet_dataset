@@ -1,0 +1,16 @@
+1 pot subcomponents
+2 pot/body subcomponents
+3 pot/body/lid leaf
+4 pot/body/container leaf
+5 pot/body/bottom leaf
+6 pot/base subcomponents
+7 pot/base/foot_base subcomponents
+8 pot/base/foot_base/foot leaf
+9 pot/base/foot_base/surface leaf
+10 pot/base/surface_base subcomponents
+11 pot/base/surface_base/surface leaf
+12 pot/containing_things subcomponents
+13 pot/containing_things/liquid leaf
+14 pot/containing_things/food leaf
+15 pot/containing_things/soil leaf
+16 pot/containing_things/plant leaf

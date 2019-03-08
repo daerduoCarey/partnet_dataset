@@ -1,0 +1,5 @@
+3 hat/normal_hat/crown leaf
+4 hat/normal_hat/brim leaf
+6 hat/cap/button leaf
+7 hat/cap/bill leaf
+8 hat/cap/panel leaf

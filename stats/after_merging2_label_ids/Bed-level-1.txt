@@ -1,0 +1,3 @@
+3 bed/bed_unit/bed_sleep_area subcomponents
+7 bed/bed_unit/bed_frame subcomponents
+22 bed/ladder subcomponents

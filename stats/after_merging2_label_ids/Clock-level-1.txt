@@ -1,0 +1,5 @@
+3 clock/table_clock/clock_body subcomponents
+7 clock/table_clock/base subtypes
+13 clock/pendulum_clock/pendulum_clock_base subtypes
+18 clock/pendulum_clock/pendulum_clock_frame subcomponents
+20 clock/pendulum_clock/pendulum subcomponents

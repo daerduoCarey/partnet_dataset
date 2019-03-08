@@ -1,0 +1,5 @@
+1 scissors subcomponents
+2 scissors/screw leaf
+3 scissors/blade_handle_set subcomponents
+4 scissors/blade_handle_set/blade leaf
+5 scissors/blade_handle_set/handle leaf

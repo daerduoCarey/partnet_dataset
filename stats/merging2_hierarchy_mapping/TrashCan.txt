@@ -1,0 +1,17 @@
+trash_can trash_can
+trash_can/cover trash_can/cover
+trash_can/cover/cover_lid trash_can/cover/cover_lid
+trash_can/cover/cover_support trash_can/cover/cover_support
+trash_can/container trash_can/container
+trash_can/container/container_neck trash_can/container/container_neck
+trash_can/container/container_box trash_can/container/container_box
+trash_can/container/container_bottom trash_can/container/container_bottom
+trash_can/outside_frame trash_can/outside_frame
+trash_can/outside_frame/frame_horizontal_circle trash_can/outside_frame/frame_horizontal_circle
+trash_can/outside_frame/frame_vertical_bar trash_can/outside_frame/frame_vertical_bar
+trash_can/outside_frame/frame_holistic trash_can/outside_frame/frame_holistic
+trash_can/outside_frame/frame_bottom trash_can/outside_frame/frame_bottom
+trash_can/base trash_can/base
+trash_can/base/foot_base/foot trash_can/base/foot
+trash_can/base/leg_base/leg trash_can/base/foot
+trash_can/base/leg_base/foot trash_can/base/foot

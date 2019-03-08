@@ -1,0 +1,14 @@
+1 door_set subcomponents
+2 door_set/outside_frame leaf
+3 door_set/hinge leaf
+4 door_set/door subcomponents
+5 door_set/door/door_body subcomponents
+6 door_set/door/door_body/surface_board leaf
+7 door_set/door/door_body/glass leaf
+8 door_set/door/door_body/horizontal_bar leaf
+9 door_set/door/door_body/vertical_bar leaf
+10 door_set/door/door_body/slant_bar leaf
+11 door_set/door/door_body/complex_decoration leaf
+12 door_set/door/handle subcomponents
+13 door_set/door/handle/fixed_part leaf
+14 door_set/door/handle/movable_part leaf

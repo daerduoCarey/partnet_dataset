@@ -1,0 +1,6 @@
+3 refrigerator/body/frame leaf
+5 refrigerator/body/door/door_frame leaf
+6 refrigerator/body/door/handle leaf
+8 refrigerator/body/body_interior/shelf leaf
+11 refrigerator/base/foot_base/foot leaf
+13 refrigerator/base/surface_base/surface leaf

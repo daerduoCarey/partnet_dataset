@@ -1,0 +1,2 @@
+2 display/display_screen subcomponents
+5 display/base subtypes

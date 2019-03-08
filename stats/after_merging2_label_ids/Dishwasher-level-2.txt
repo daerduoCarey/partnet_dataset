@@ -1,0 +1,4 @@
+3 dishwasher/body/frame leaf
+4 dishwasher/body/door subcomponents
+8 dishwasher/base/foot_base subcomponents 
+11 dishwasher/base/surface_base subcomponents

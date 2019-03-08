@@ -1,0 +1,8 @@
+3 bottle/normal_bottle/body leaf
+4 bottle/normal_bottle/closure leaf
+5 bottle/normal_bottle/lid leaf
+6 bottle/normal_bottle/handle leaf
+7 bottle/normal_bottle/neck leaf
+8 bottle/normal_bottle/mouth leaf
+10 bottle/jug/body leaf
+11 bottle/jug/handle leaf

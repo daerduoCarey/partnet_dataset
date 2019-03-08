@@ -1,0 +1,5 @@
+3 pot/body/lid leaf
+4 pot/body/container leaf
+7 pot/base/foot_base/foot leaf
+9 pot/containing_things/plant leaf
+10 pot/containing_things/liquid_or_soil leaf

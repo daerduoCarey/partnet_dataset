@@ -1,0 +1,5 @@
+3 refrigerator/body/frame leaf
+4 refrigerator/body/door subcomponents
+7 refrigerator/body/body_interior subcomponents
+10 refrigerator/base/foot_base subcomponents
+12 refrigerator/base/surface_base subcomponents

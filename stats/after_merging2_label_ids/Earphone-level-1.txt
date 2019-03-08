@@ -1,0 +1,5 @@
+3 earphone/earbud/earbud_unit subcomponents
+7 earphone/earbud/earbud_connector_wire leaf
+9 earphone/headphone/head_band subcomponents
+11 earphone/headphone/earcup_unit subcomponents
+15 earphone/headphone/connector_wire leaf

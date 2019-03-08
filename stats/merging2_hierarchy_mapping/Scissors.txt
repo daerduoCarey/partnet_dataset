@@ -1,0 +1,5 @@
+scissors scissors
+scissors/blade_handle_set scissors/blade_handle_set
+scissors/blade_handle_set/blade scissors/blade_handle_set/blade
+scissors/blade_handle_set/handle scissors/blade_handle_set/handle
+scissors/screw scissors/screw

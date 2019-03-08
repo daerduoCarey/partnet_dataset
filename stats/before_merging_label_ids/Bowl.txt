@@ -1,0 +1,6 @@
+1 bowl subcomponents
+2 bowl/container leaf
+3 bowl/bottom leaf
+4 bowl/containing_things subcomponents
+5 bowl/containing_things/liquid leaf
+6 bowl/containing_things/food leaf

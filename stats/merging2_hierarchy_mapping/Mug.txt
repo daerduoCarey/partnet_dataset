@@ -1,0 +1,4 @@
+mug mug
+mug/body mug/body
+mug/handle mug/handle
+mug/containing_things mug/containing_things

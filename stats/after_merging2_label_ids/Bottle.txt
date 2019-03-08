@@ -1,0 +1,12 @@
+1 bottle subtypes
+2 bottle/normal_bottle subcomponents
+3 bottle/normal_bottle/body leaf
+4 bottle/normal_bottle/closure leaf
+5 bottle/normal_bottle/lid leaf
+6 bottle/normal_bottle/handle leaf
+7 bottle/normal_bottle/neck leaf
+8 bottle/normal_bottle/mouth leaf
+9 bottle/jug subcomponents
+10 bottle/jug/body leaf
+11 bottle/jug/handle leaf
+12 bottle/jug/mouth leaf

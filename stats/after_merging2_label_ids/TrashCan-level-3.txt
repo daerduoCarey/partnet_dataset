@@ -1,0 +1,10 @@
+3 trash_can/container/container_bottom leaf
+4 trash_can/container/container_box leaf
+5 trash_can/container/container_neck leaf
+7 trash_can/outside_frame/frame_vertical_bar leaf
+8 trash_can/outside_frame/frame_horizontal_circle leaf
+9 trash_can/outside_frame/frame_bottom leaf
+10 trash_can/outside_frame/frame_holistic leaf
+12 trash_can/base/foot leaf
+14 trash_can/cover/cover_support leaf
+15 trash_can/cover/cover_lid leaf

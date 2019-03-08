@@ -1,0 +1,8 @@
+1 door_set subcomponents
+2 door_set/outside_frame leaf
+3 door_set/door subcomponents
+4 door_set/door/handle subcomponents
+5 door_set/door/handle/fixed_part leaf
+6 door_set/door/handle/movable_part leaf
+7 door_set/door/door_body subcomponents
+8 door_set/door/door_body/surface_board leaf

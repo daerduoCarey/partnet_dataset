@@ -1,0 +1,10 @@
+4 table/game_table/ping_pong_table/ping_pong_net leaf
+5 table/game_table/ping_pong_table/tabletop subcomponents
+7 table/game_table/ping_pong_table/table_base subtypes
+13 table/game_table/pool_table/tabletop subcomponents
+17 table/game_table/pool_table/table_base subtypes
+22 table/picnic_table/regular_table/tabletop subcomponents
+24 table/picnic_table/regular_table/table_base subtypes
+28 table/picnic_table/bench leaf
+30 table/regular_table/tabletop subcomponents
+38 table/regular_table/table_base subtypes

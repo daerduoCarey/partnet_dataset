@@ -1,0 +1,2 @@
+2 dishwasher/body subcomponents
+7 dishwasher/base subtypes

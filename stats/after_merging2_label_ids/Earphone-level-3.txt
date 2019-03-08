@@ -1,0 +1,9 @@
+4 earphone/earbud/earbud_unit/earbud_connector leaf
+5 earphone/earbud/earbud_unit/earbud_frame leaf
+6 earphone/earbud/earbud_unit/earbud_pad leaf
+7 earphone/earbud/earbud_connector_wire leaf
+10 earphone/headphone/head_band/top_band leaf
+12 earphone/headphone/earcup_unit/earcup_pad leaf
+13 earphone/headphone/earcup_unit/earcup_frame leaf
+14 earphone/headphone/earcup_unit/earcup_connector leaf
+15 earphone/headphone/connector_wire leaf

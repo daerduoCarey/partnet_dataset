@@ -1,0 +1,9 @@
+5 bed/bed_unit/bed_sleep_area/pillow leaf
+6 bed/bed_unit/bed_sleep_area/mattress leaf
+8 bed/bed_unit/bed_frame/bed_frame_horizontal_surface subcomponents
+11 bed/bed_unit/bed_frame/bed_frame_base subtypes
+16 bed/bed_unit/bed_frame/bed_side_surface subcomponents
+20 bed/bed_unit/bed_frame/bed_post leaf
+21 bed/bed_unit/bed_frame/headboard leaf
+23 bed/ladder/ladder_vertical_bar leaf
+24 bed/ladder/rung leaf

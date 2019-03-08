@@ -1,0 +1,10 @@
+1 pot subcomponents
+2 pot/body subcomponents
+3 pot/body/lid leaf
+4 pot/body/container leaf
+5 pot/base subtypes
+6 pot/base/foot_base subcomponents
+7 pot/base/foot_base/foot leaf
+8 pot/containing_things subcomponents
+9 pot/containing_things/plant leaf
+10 pot/containing_things/liquid_or_soil leaf

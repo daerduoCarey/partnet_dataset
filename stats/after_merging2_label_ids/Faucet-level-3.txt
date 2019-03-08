@@ -1,0 +1,11 @@
+3 faucet/shower_faucet/switch leaf
+4 faucet/shower_faucet/hose leaf
+6 faucet/shower_faucet/spout/tube leaf
+8 faucet/shower_faucet/frame/horizontal_support leaf
+9 faucet/shower_faucet/frame/vertical_support leaf
+10 faucet/shower_faucet/frame/surface_base leaf
+13 faucet/normal_faucet/spout/tube leaf
+14 faucet/normal_faucet/switch leaf
+16 faucet/normal_faucet/frame/horizontal_support leaf
+17 faucet/normal_faucet/frame/vertical_support leaf
+18 faucet/normal_faucet/frame/surface_base leaf

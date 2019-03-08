@@ -1,0 +1,8 @@
+door_set door_set
+door_set/outside_frame door_set/outside_frame
+door_set/door door_set/door
+door_set/door/door_body door_set/door/door_body
+door_set/door/door_body/surface_board door_set/door/door_body/surface_board
+door_set/door/handle door_set/door/handle
+door_set/door/handle/fixed_part door_set/door/handle/fixed_part
+door_set/door/handle/movable_part door_set/door/handle/movable_part

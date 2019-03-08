@@ -1,0 +1,10 @@
+4 clock/table_clock/clock_body/frame leaf
+6 clock/table_clock/clock_body/surface leaf
+9 clock/table_clock/base/foot_base/foot leaf
+11 clock/table_clock/base/surface_base/base_surface leaf
+15 clock/pendulum_clock/pendulum_clock_base/foot_base/foot leaf
+17 clock/pendulum_clock/pendulum_clock_base/surface_base/base_surface leaf
+19 clock/pendulum_clock/pendulum_clock_frame/box leaf
+21 clock/pendulum_clock/pendulum/pendulum_body leaf
+22 clock/pendulum_clock/pendulum/chain leaf
+23 clock/pendulum_clock/pendulum_clock_top leaf

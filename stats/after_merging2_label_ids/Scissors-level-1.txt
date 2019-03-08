@@ -1,0 +1,2 @@
+4 scissors/blade_handle_set/blade leaf
+5 scissors/blade_handle_set/handle leaf

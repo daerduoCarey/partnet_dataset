@@ -1,0 +1,12 @@
+microwave microwave
+microwave/body microwave/body
+microwave/body/frame microwave/body/frame
+microwave/body/body_interior microwave/body/body_interior
+microwave/body/body_interior/tray microwave/body/body_interior/tray
+microwave/body/door microwave/body/door
+microwave/body/door/door_frame microwave/body/door/door_frame
+microwave/body/door/glass microwave/body/door/glass
+microwave/body/door/handle microwave/body/door/handle
+microwave/base microwave/base
+microwave/base/foot_base microwave/base/foot_base
+microwave/base/foot_base/foot microwave/base/foot_base/foot

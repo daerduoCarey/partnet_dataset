@@ -1,0 +1,13 @@
+1 hat subtypes
+2 hat/normal_hat subcomponents
+3 hat/normal_hat/crown leaf
+4 hat/normal_hat/band leaf
+5 hat/normal_hat/brim leaf
+6 hat/normal_hat/button leaf
+7 hat/normal_hat/decoration leaf
+8 hat/cap subcomponents
+9 hat/cap/bill leaf
+10 hat/cap/panel leaf
+11 hat/cap/button leaf
+12 hat/cap/strap leaf
+13 hat/cap/decoration leaf

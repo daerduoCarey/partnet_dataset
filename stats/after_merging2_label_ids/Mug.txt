@@ -1,0 +1,4 @@
+1 mug subcomponents
+2 mug/body leaf
+3 mug/handle leaf
+4 mug/containing_things leaf

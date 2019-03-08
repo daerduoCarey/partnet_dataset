@@ -1,0 +1,12 @@
+dishwasher dishwasher
+dishwasher/body dishwasher/body
+dishwasher/body/frame dishwasher/body/frame
+dishwasher/body/door dishwasher/body/door
+dishwasher/body/door/door_frame dishwasher/body/door/door_frame
+dishwasher/body/door/handle dishwasher/body/door/handle
+dishwasher/base dishwasher/base
+dishwasher/base/foot_base dishwasher/base/foot_base
+dishwasher/base/foot_base/foot dishwasher/base/foot_base/foot
+dishwasher/base/foot_base/surface dishwasher/base/foot_base/surface
+dishwasher/base/surface_base dishwasher/base/surface_base
+dishwasher/base/surface_base/surface dishwasher/base/surface_base/surface

@@ -1,0 +1,6 @@
+3 dishwasher/body/frame leaf
+5 dishwasher/body/door/door_frame leaf
+6 dishwasher/body/door/handle leaf
+9 dishwasher/base/foot_base/foot leaf
+10 dishwasher/base/foot_base/surface leaf
+12 dishwasher/base/surface_base/surface leaf

@@ -1,0 +1,3 @@
+2 bag/bag_body leaf
+3 bag/handle leaf
+4 bag/shoulder_strap leaf

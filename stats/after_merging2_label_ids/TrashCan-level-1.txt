@@ -1,0 +1,4 @@
+2 trash_can/container subcomponents
+6 trash_can/outside_frame subcomponents
+11 trash_can/base subtypes
+13 trash_can/cover subcomponents

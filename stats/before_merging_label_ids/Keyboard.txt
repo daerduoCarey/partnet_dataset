@@ -1,0 +1,5 @@
+1 keyboard subcomponents
+2 keyboard/cord leaf
+3 keyboard/frame leaf
+4 keyboard/key leaf
+5 keyboard/tilt_leg leaf

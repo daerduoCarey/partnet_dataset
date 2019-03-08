@@ -1,0 +1,13 @@
+refrigerator refrigerator
+refrigerator/body refrigerator/body
+refrigerator/body/frame refrigerator/body/frame
+refrigerator/body/body_interior refrigerator/body/body_interior
+refrigerator/body/body_interior/shelf refrigerator/body/body_interior/shelf
+refrigerator/body/door refrigerator/body/door
+refrigerator/body/door/door_frame refrigerator/body/door/door_frame
+refrigerator/body/door/handle refrigerator/body/door/handle
+refrigerator/base refrigerator/base
+refrigerator/base/foot_base refrigerator/base/foot_base
+refrigerator/base/foot_base/foot refrigerator/base/foot_base/foot
+refrigerator/base/surface_base refrigerator/base/surface_base
+refrigerator/base/surface_base/surface refrigerator/base/surface_base/surface

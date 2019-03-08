@@ -1,0 +1,12 @@
+1 dishwasher subcomponents
+2 dishwasher/body subcomponents
+3 dishwasher/body/frame leaf
+4 dishwasher/body/door subcomponents
+5 dishwasher/body/door/door_frame leaf
+6 dishwasher/body/door/handle leaf
+7 dishwasher/base subtypes
+8 dishwasher/base/foot_base subcomponents 
+9 dishwasher/base/foot_base/foot leaf
+10 dishwasher/base/foot_base/surface leaf
+11 dishwasher/base/surface_base subcomponents
+12 dishwasher/base/surface_base/surface leaf

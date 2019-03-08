@@ -1,0 +1,13 @@
+1 laptop subcomponents
+2 laptop/screen_side subcomponents
+3 laptop/screen_side/screen leaf
+4 laptop/screen_side/screen_frame leaf
+5 laptop/screen_side/camera leaf
+6 laptop/base_side subcomponents
+7 laptop/base_side/keyboard leaf
+8 laptop/base_side/touchpad subcomponents
+9 laptop/base_side/touchpad/touchpad_surface leaf
+10 laptop/base_side/touchpad/button leaf
+11 laptop/base_side/base_frame leaf
+12 laptop/connector subcomponents
+13 laptop/connector/shaft leaf

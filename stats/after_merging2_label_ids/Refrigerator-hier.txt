@@ -1,0 +1,13 @@
+1 refrigerator subcomponents
+2 refrigerator/body subcomponents
+3 refrigerator/body/frame leaf
+4 refrigerator/body/door subcomponents
+5 refrigerator/body/door/door_frame leaf
+6 refrigerator/body/door/handle leaf
+7 refrigerator/body/body_interior subcomponents
+8 refrigerator/body/body_interior/shelf leaf
+9 refrigerator/base subtypes
+10 refrigerator/base/foot_base subcomponents
+11 refrigerator/base/foot_base/foot leaf
+12 refrigerator/base/surface_base subcomponents
+13 refrigerator/base/surface_base/surface leaf

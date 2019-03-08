@@ -1,0 +1,9 @@
+4 cutting_instrument/dagger/handle_side/guard leaf
+5 cutting_instrument/dagger/handle_side/handle leaf
+6 cutting_instrument/dagger/handle_side/butt leaf
+8 cutting_instrument/dagger/blade_side/blade leaf
+11 cutting_instrument/knife/handle_side/guard leaf
+12 cutting_instrument/knife/handle_side/handle leaf
+13 cutting_instrument/knife/handle_side/butt leaf
+15 cutting_instrument/knife/blade_side/bolster leaf
+16 cutting_instrument/knife/blade_side/blade leaf
