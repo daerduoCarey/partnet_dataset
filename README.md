@@ -22,13 +22,13 @@ Video: https://youtu.be/7pEuoxmb-MI
 
 ## About the Dataset
 
-PartNet is part of the ShapeNet efforts and we provide the PartNet data downloading instructions on [the ShapeNet official webpage](https://www.shapenet.org/). You need to become a registered user in order to download the data.
+PartNet is part of the ShapeNet efforts and we provide the PartNet data downloading instructions on [the ShapeNet official webpage](https://www.shapenet.org/). You need to become a registered user in order to download the data. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSetsP7aj-Hy0gvP2FxRT3aTIrc_IMqSqR-5Xl8P3x2awDkQbw/viewform?usp=sf_link) if you have any feedback to us for improving PartNet.
 
 ## TODOs
 
 We will host online PartNet challenges on 3D shape fine-grained semantic segmentation, hierarchical semantic segmentation and fine-grained instance segmentation tasks. Stay tuned.
 
-More annotations are coming.
+More annotations are coming. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSetsP7aj-Hy0gvP2FxRT3aTIrc_IMqSqR-5Xl8P3x2awDkQbw/viewform?usp=sf_link) to tell us what annotations you want us to add in PartNet.
 
 ## Citation
 
