@@ -20,6 +20,16 @@ Project Page: https://cs.stanford.edu/~kaichun/partnet/
 
 Video: https://youtu.be/7pEuoxmb-MI
 
+## About the Dataset
+
+PartNet is part of the ShapeNet efforts and we provide the PartNet data downloading instructions on [the ShapeNet official webpage](https://www.shapenet.org/). You need to become a registered user in order to download the data.
+
+## TODOs
+
+We will host online PartNet challenges on 3D shape fine-grained semantic segmentation, hierarchical semantic segmentation and fine-grained instance segmentation tasks. Stay tuned.
+
+More annotations are comming.
+
 ## Citation
 
     @article{mo2018partnet,
