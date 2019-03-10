@@ -24,6 +24,10 @@ Video: https://youtu.be/7pEuoxmb-MI
 
 PartNet is part of the ShapeNet efforts and we provide the PartNet data downloading instructions on [the ShapeNet official webpage](https://www.shapenet.org/). You need to become a registered user in order to download the data. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSetsP7aj-Hy0gvP2FxRT3aTIrc_IMqSqR-5Xl8P3x2awDkQbw/viewform?usp=sf_link) if you have any feedback to us for improving PartNet.
 
+## Errata
+
+We have tried our best to design the annotation interface, instruct the annotators on providing high-quality annotations and get cross validations among different workers. We also conducted two-round of data verifications to date to elliminate obvious data annotation errors. However, provided that annotating such large-scale and detailed parts with more similar part semantics definitions is still challenging, there could be still annotation errors in PartNet. Dear PartNet users, we need your help on improving the quality of PartNet while you use it. Please fill in [this errata](https://docs.google.com/document/d/1LgTCnws9ixDZF7wvGpN0BooqHOu_7AnuvXhwojvR1O4/edit?usp=sharing) for PartNet v0 release. We will fix the errors in the next PartNet release. Thank you!
+
 ## TODOs
 
 We will host online PartNet challenges on 3D shape fine-grained semantic segmentation, hierarchical semantic segmentation and fine-grained instance segmentation tasks. Stay tuned.
