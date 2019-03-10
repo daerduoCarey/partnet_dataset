@@ -105,7 +105,7 @@ This repository provides the meta-files for PartNet release v0.
 
 ## Questions
 
-Please post issues for questions and more helps on this Github repo page.
+Please post issues for questions and more helps on this Github repo page. For data annotation error, please fill in [this errata](https://docs.google.com/spreadsheets/d/1Q_6r9EblZdP9Grhhm2ob4u0FQ8xurAThlgK-qAcjYP0/edit?usp=sharing).
 
 
 ## License
