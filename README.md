@@ -26,7 +26,10 @@ PartNet is part of the ShapeNet efforts and we provide the PartNet data download
 
 ## Errata
 
-We have tried our best to design the annotation interface, instruct the annotators on providing high-quality annotations and get cross validations among different workers. We also conducted two-round of data verifications to date to elliminate obvious data annotation errors. However, provided that annotating such large-scale and detailed parts with more similar part semantics definitions is still challenging, there could be still annotation errors in PartNet. Dear PartNet users, we need your help on improving the quality of PartNet while you use it. Please fill in [this errata](https://docs.google.com/document/d/1LgTCnws9ixDZF7wvGpN0BooqHOu_7AnuvXhwojvR1O4/edit?usp=sharing) for PartNet v0 release. We will fix the errors in the next PartNet release. Thank you!
+We have tried our best to design the annotation interface, instruct the annotators on providing high-quality annotations and get cross validations among different workers. We also conducted two-round of data verifications to date to elliminate obvious data annotation errors. 
+However, provided that annotating such large-scale and detailed parts with more similar part semantics definitions is still challenging, there could be still annotation errors in PartNet. We believe that the error rate should be below 1% through a rough examination.
+
+Dear PartNet users, we need your help on improving the quality of PartNet while you use it. Please fill in [this errata](https://docs.google.com/document/d/1LgTCnws9ixDZF7wvGpN0BooqHOu_7AnuvXhwojvR1O4/edit?usp=sharing) for PartNet v0 release. We will fix the errors in the next PartNet release. Thank you!
 
 ## TODOs
 
