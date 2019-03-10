@@ -46,6 +46,16 @@ More annotations are coming. Please fill in [this form](https://docs.google.com/
         year={2019}
     }
 
+
+Please also remember to cite ShapeNet if you use ShapeNet models.
+
+    @article{chang2015shapenet,
+        title={Shapenet: An information-rich 3d model repository},
+        author={Chang, Angel X and Funkhouser, Thomas and Guibas, Leonidas and Hanrahan, Pat and Huang, Qixing and Li, Zimo and Savarese, Silvio and Savva, Manolis and Song, Shuran and Su, Hao and others},
+        journal={arXiv preprint arXiv:1512.03012},
+        year={2015}
+    }
+
 ## About this repository
 
 This repository provides the meta-files for PartNet release v0. 
