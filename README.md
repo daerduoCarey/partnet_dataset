@@ -28,7 +28,7 @@ PartNet is part of the ShapeNet efforts and we provide the PartNet data download
 
 We will host online PartNet challenges on 3D shape fine-grained semantic segmentation, hierarchical semantic segmentation and fine-grained instance segmentation tasks. Stay tuned.
 
-More annotations are comming.
+More annotations are coming.
 
 ## Citation
 
