@@ -27,9 +27,9 @@ PartNet is part of the ShapeNet efforts and we provide the PartNet data download
 ## Errata
 
 We have tried our best to design the annotation interface, instruct the annotators on providing high-quality annotations and get cross validations among different workers. We also conducted two-round of data verifications to date to elliminate obvious data annotation errors. 
-However, provided that annotating such large-scale and detailed parts with more similar part semantics definitions is still challenging, there could be still annotation errors in PartNet. We believe that the error rate should be below 1% through a rough examination.
+However, provided that annotating such large-scale fine-grained part segmentation is challenging, there could still be some annotation errors in PartNet. We believe that the error rate should be below 1% counted in parts through a rough examination.
 
-Dear PartNet users, we need your help on improving the quality of PartNet while you use it. Please fill in [this errata](https://docs.google.com/spreadsheets/d/1Q_6r9EblZdP9Grhhm2ob4u0FQ8xurAThlgK-qAcjYP0/edit?usp=sharing) for PartNet v0 release. We will fix the errors in the next PartNet release. Thank you!
+Dear PartNet users, we need your help on improving the quality of PartNet while you use it. If you find any problematic annotation, please let us know by filling in [this errata](https://docs.google.com/spreadsheets/d/1Q_6r9EblZdP9Grhhm2ob4u0FQ8xurAThlgK-qAcjYP0/edit?usp=sharing) for PartNet v0 release. We will fix the errors in the next PartNet release. Thank you!
 
 ## TODOs
 
@@ -47,7 +47,7 @@ More annotations are coming. Please fill in [this form](https://docs.google.com/
     }
 
 
-Please also remember to cite ShapeNet if you use ShapeNet models.
+Please also cite ShapeNet if you use ShapeNet models.
 
     @article{chang2015shapenet,
         title={Shapenet: An information-rich 3d model repository},
