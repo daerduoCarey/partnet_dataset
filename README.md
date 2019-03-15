@@ -86,6 +86,7 @@ This repository provides the meta-files for PartNet release v0.
         merge_result_json.py                    # Merge `result.json` (raw annotation) to `result_merging.json` (after semantic clean-up)
                                                 # This file will generate a `result_merging.json` in `../data/[anno_id]/` directory
         gen_h5_ins_seg_after_merging.py         # An example usage python script to load PartNet data, check the file for more information
+        geometry_utils.py                       # Some useful helper functions for geometry processing
     data/                                       # Download PartNet data from Google Drive and unzip them here
         42/
             result.json                 # A JSON file storing the part hierarchical trees from raw user annotation
