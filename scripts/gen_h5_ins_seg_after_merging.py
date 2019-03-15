@@ -1,7 +1,7 @@
 """
 This file tries to load the PartNet data and export hdf5 files for network training and testing.
 For each data record, it loads the data from result.json and objs folder and reads the merging criterion
-to load in after-merging2 PartNet part semantics that are used for Sec 5.1, 5.2 and 5.3.
+to load in after-merging PartNet part semantics that are used for Sec 5.1, 5.2 and 5.3.
 
 """
 
@@ -20,7 +20,7 @@ print(in_cat, split)
 in_fn = '../stats/train_val_test_split/%s.%s.json' % (in_cat, split)
 with open(in_fn, 'r') as fin:
     item_list = json.load(fin)
-in_fn = '../stats/merging2_hierarchy_mapping/%s.txt' % in_cat
+in_fn = '../stats/merging_hierarchy_mapping/%s.txt' % in_cat
 with open(in_fn, 'r') as fin:
     node_mapping = {d.rstrip().split()[0]: d.rstrip().split()[1] for d in fin.readlines()}
 

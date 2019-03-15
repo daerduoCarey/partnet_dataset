@@ -68,10 +68,10 @@ This repository provides the meta-files for PartNet release v0.
         before_merging_label_ids/       # Store all expert-defined part semantics before merging
             Chair.txt
             ...
-        merging2_hierarchy_mapping/     # Store all merging criterion
+        merging_hierarchy_mapping/      # Store all merging criterion
             Chair.txt
             ...
-        after_merging2_label_ids/       # Store the part semantics after merging
+        after_merging_label_ids/        # Store the part semantics after merging
             Chair.txt                   # all part semantics
             Chair-hier.txt              # all part semantics that are selected for Sec 5.2 experiments
             Chair-level-1.txt           # all part semantics that are selected for Sec 5.1 and 5.3 experiments for chair level-1
@@ -83,7 +83,9 @@ This repository provides the meta-files for PartNet release v0.
             Chair.val.json
             Chair.test.json
     scripts/
-        gen_h5_ins_seg_after_merging2.py        # An example usage python script to load PartNet data, check the file for more information
+        merge_result_json.py                    # Merge `result.json` (raw annotation) to `result_merging.json` (after semantic clean-up)
+                                                # This file will generate a `result_merging.json` in `../data/[anno_id]/` directory
+        gen_h5_ins_seg_after_merging.py         # An example usage python script to load PartNet data, check the file for more information
     data/                                       # Download PartNet data from Google Drive and unzip them here
         42/
             result.json                 # A JSON file storing the part hierarchical trees from raw user annotation
