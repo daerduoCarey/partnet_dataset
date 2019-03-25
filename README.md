@@ -33,7 +33,7 @@ Dear PartNet users, we need your help on improving the quality of PartNet while 
 
 ## PartNet Experiments
 
-Please refer to [this repo](https://github.com/daerduocarey/partnet_ins_seg) for the instance segmentation experiments (Section 5.3) in the paper.
+Please refer to [this repo](https://github.com/daerduocarey/partnet_seg_exps) for the segmentation experiments (Section 5) in the paper.
 
 ## TODOs
 
