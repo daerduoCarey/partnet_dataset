@@ -74,7 +74,7 @@ def traverse(record, cur_name, cur_node):
 
 traverse(data[0], '', None)
 
-out_fn = os.path.join(in_dir, 'result_merging.json')
+out_fn = os.path.join(in_dir, 'result_after_merging.json')
 with open(out_fn, 'w') as fout:
     json.dump(new_result, fout)
 
