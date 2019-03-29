@@ -26,7 +26,7 @@ PartNet is part of the ShapeNet efforts and we provide the PartNet data download
 
 ## Data visualization
 
-We make visualization pages for the PartNet data. For the raw annotation (before-merging) one, use [http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier.html](http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier.html). FOr the final data (after-merging) one, use [http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier_after_merging.html](http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier_after_merging.html). Replace 42 with any annotation id for your model.
+We make visualization pages for the PartNet data. For the raw annotation (before-merging) one, use [http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier.html](http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier.html). For the final data (after-merging) one, use [http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier_after_merging.html](http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier_after_merging.html). Replace 42 with any annotation id for your model.
 
 ## Errata
 
