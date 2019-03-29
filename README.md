@@ -24,6 +24,10 @@ Video: https://youtu.be/7pEuoxmb-MI
 
 PartNet is part of the ShapeNet efforts and we provide the PartNet data downloading instructions on [the ShapeNet official webpage](https://www.shapenet.org/download/parts). You need to become a registered user in order to download the data. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSetsP7aj-Hy0gvP2FxRT3aTIrc_IMqSqR-5Xl8P3x2awDkQbw/viewform?usp=sf_link) if you have any feedback to us for improving PartNet.
 
+## Data visualization
+
+We make visualization pages for the PartNet data. For the raw annotation (before-merging) one, use [http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier.html](http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier.html). FOr the final data (after-merging) one, use [http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier_after_merging.html](http://download.cs.stanford.edu/orion/partnet_dataset/data_v0/42/tree_hier_after_merging.html). Replace 42 with any annotation id for your model.
+
 ## Errata
 
 We have tried our best to design the annotation interface, instruct the annotators on providing high-quality annotations and get cross validations among different workers. We also conducted two-round of data verifications to date to elliminate obvious data annotation errors. 
@@ -37,9 +41,9 @@ Please refer to [this repo](https://github.com/daerduocarey/partnet_seg_exps) fo
 
 ## TODOs
 
-We will host online PartNet challenges on 3D shape fine-grained semantic segmentation, hierarchical semantic segmentation and fine-grained instance segmentation tasks. Stay tuned.
-
-More annotations are coming. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSetsP7aj-Hy0gvP2FxRT3aTIrc_IMqSqR-5Xl8P3x2awDkQbw/viewform?usp=sf_link) to tell us what annotations you want us to add in PartNet.
+* We will host online PartNet challenges on 3D shape fine-grained semantic segmentation, hierarchical semantic segmentation and fine-grained instance segmentation tasks. Stay tuned.
+* More annotations are coming. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSetsP7aj-Hy0gvP2FxRT3aTIrc_IMqSqR-5Xl8P3x2awDkQbw/viewform?usp=sf_link) to tell us what annotations you want us to add in PartNet.
+* We are integrating PartNet visualization as part of ShapeNet visualization.
 
 ## Citations
 
@@ -122,8 +126,8 @@ Please post issues for questions and more helps on this Github repo page. For da
 
 MIT Licence
 
-## Log
+## Updates
 
 * [March 29, 2019] Data v0 with updated data format (`result.json` and `result_after_merging.json`) released. Please re-download the data.
-* [March 15, 2019] Data v0 released.
+* [March 12, 2019] Data v0 released.
 
