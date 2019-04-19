@@ -35,6 +35,10 @@ However, provided that annotating such large-scale fine-grained part segmentatio
 
 Dear PartNet users, we need your help on improving the quality of PartNet while you use it. If you find any problematic annotation, please let us know by filling in [this errata](https://docs.google.com/spreadsheets/d/1Q_6r9EblZdP9Grhhm2ob4u0FQ8xurAThlgK-qAcjYP0/edit?usp=sharing) for PartNet v0 release. We will fix the errors in the next PartNet release. Thank you!
 
+## Annotation System (3D Web-based GUI)
+
+We release our Annotation Interface in [this repo](https://github.com/daerduocarey/partnet_anno_system).
+
 ## PartNet Experiments
 
 Please refer to [this repo](https://github.com/daerduocarey/partnet_seg_exps) for the segmentation experiments (Section 5) in the paper.
