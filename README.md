@@ -51,13 +51,13 @@ Please refer to [this repo](https://github.com/daerduocarey/partnet_seg_exps) fo
 
 ## Citations
 
-    @article{mo2018partnet,
-        title={{PartNet}: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level {3D} Object Understanding},
-        author={Mo, Kaichun and Zhu, Shilin and Chang, Angel and Yi, Li and Tripathi, Subarna and Guibas, Leonidas and Su, Hao},
-        booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-        year={2019}
+    @InProceedings{Mo_2019_CVPR,
+        author = {Mo, Kaichun and Zhu, Shilin and Chang, Angel X. and Yi, Li and Tripathi, Subarna and Guibas, Leonidas J. and Su, Hao},
+        title = {{PartNet}: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level {3D} Object Understanding},
+        booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+        month = {June},
+        year = {2019}
     }
-
 
 Please also cite ShapeNet if you use ShapeNet models.
 
