@@ -104,11 +104,11 @@ k = 0; t = 0;
 for item_id in bar(range(len(item_list))):
     item = item_list[item_id]
 
-    in_fn = '../data/%s/sample-points-all-pts-nor-rgba-10000.txt' % item['anno_id']
+    in_fn = '../data/%s/point_sample/sample-points-all-pts-nor-rgba-10000.txt' % item['anno_id']
     assert os.path.exists(in_fn)
     in_res_fn = '../data/%s/result.json' % item['anno_id']
     assert os.path.exists(in_res_fn)
-    in_label_fn = '../data/%s/sample-points-all-label-10000.txt' % item['anno_id']
+    in_label_fn = '../data/%s/point_sample/sample-points-all-label-10000.txt' % item['anno_id']
     assert os.path.exists(in_label_fn)
 
     pts, nor, rgb, opacity = load_file(in_fn)
