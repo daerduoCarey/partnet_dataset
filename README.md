@@ -16,7 +16,7 @@ Our team: [Kaichun Mo](https://cs.stanford.edu/~kaichun), [Shilin Zhu](http://cs
 
 Arxiv Version: https://arxiv.org/abs/1812.02713
 
-Project Page: https://cs.stanford.edu/~kaichun/partnet/
+Project Page: https://partnet.cs.stanford.edu/
 
 Video: https://youtu.be/7pEuoxmb-MI
 
